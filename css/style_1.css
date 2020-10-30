@@ -1,0 +1,76 @@
+.img{
+
+			margin: 20px 100px 20px 250px;
+
+		}
+		body{
+			background-image: url(../images/bg5.jpg); background-repeat: no-repeat;background-size: cover;
+
+		}
+		h2{
+			word-spacing: 2px;
+			text-align: center;
+		}
+		.para{
+			text-align: center;
+			margin: 10px 300px 100px 300px;
+			font-family: sans-serif;
+			font-style: italic;
+			font-weight: 600;
+		}
+		.paramid1{
+			text-align: center;
+			margin: 10px 0px 20px 0px;
+			margin-left: 200px;
+			width: 50%;
+			padding: 1px 0px 1px 1px;
+			font-family: sans-serif;
+			font-style: italic;
+			font-weight: 600;
+		}
+			.paramid2{
+			text-align: center;
+			margin: 10px 0px 20px 0px;
+			margin-top: 9px;
+			margin-right: : 200px;
+			width: 50%;
+			padding: 1px 0px 1px 1px;
+			font-family: sans-serif;
+			font-style: italic;
+			font-weight: 600;
+		}
+
+
+		.mid1 {
+			
+            float: left;
+            width: 40%;
+            margin: 30px 100px;  
+        }
+
+        .mid1 img{
+        	margin-left: 250px
+        }
+        .mid2 img{
+        	margin-left: 30px;
+        	margin-top: 32px;
+        }
+        
+
+         
+
+        /* Clear floats after image containers */
+        .mid2
+         {
+            float: right;
+            width: 40%;
+
+         }
+
+		.footer{
+			background: #eb4034;
+			margin: 45% 0 0 0;
+			padding: 5px 20px 5px 20px;
+			position: absolute;;
+			color: white;
+		}
